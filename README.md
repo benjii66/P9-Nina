@@ -13,7 +13,7 @@ Le but de ce projet est de travailler sur l'optimisation et le référencement (
 - 🗣  Google Rich Snippet (référencement local)
 - 📱 Schema.org (optimisation du référencement local)
 - 🌐 Balises Meta (référencement global du site grâce à des balises)
-- ↘️ Minification des scripts
+- ↘️ Minification des scripts (réduction du poids des scripts ainsi que des images (autre procédé))
 
 
 ## Accessibilité et Performance
