@@ -51,5 +51,5 @@ https://benjii66.github.io/P9-Nina/
 ### Cloner le répertoire 
 
 ```shell
-git clone https://github.com/benjii66/P9-Nina
+git clone https://github.com/benjii66/P9-Nina.git
 ```
